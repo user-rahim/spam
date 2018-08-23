@@ -1,5 +1,5 @@
 <?php
-// RINTOD 
+// Rahim 
 class bomWithMsg{
   public $no;
   public $msg;
